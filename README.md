@@ -1,6 +1,5 @@
 ## AL-Kaisi/README.md
 
-# Mohamed Al-Kaisi
 
 <div align="center">
   <picture>
