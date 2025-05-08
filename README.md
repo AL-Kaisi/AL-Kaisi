@@ -1,28 +1,52 @@
-<div align="center">
-  
+## AL-Kaisi/README.md
+
 # Mohamed Al-Kaisi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Transport+Network+Expert)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=ffffff" width="700"/>
-</p>
-
-<p>
-  <a href="http://al-kaisi.com/"><img src="https://img.shields.io/badge/Website-al--kaisi.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://twitter.com/alkaisi92"><img src="https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://uk.linkedin.com/in/mohamed-al-kaisi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=58A6FF" alt="Profile views"/>
-</p>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Transport+Network+Expert">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Transport+Network+Expert">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Transport+Network+Expert" alt="Typing SVG">
+  </picture>
 </div>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WEBSITE-AL--KAISI.COM-58A6FF?style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/WEBSITE-AL--KAISI.COM-2F80ED?style=for-the-badge">
+    <img src="https://img.shields.io/badge/WEBSITE-AL--KAISI.COM-58A6FF?style=for-the-badge" alt="Website">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TWITTER-@ALKAISI92-1DA1F2?style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TWITTER-@ALKAISI92-1DA1F2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/TWITTER-@ALKAISI92-1DA1F2?style=for-the-badge" alt="Twitter">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="LinkedIn">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=58A6FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=2F80ED">
+    <img src="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=58A6FF" alt="Profile views">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=slice&color=58A6FF&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=36&fontColor=ffffff&fontAlign=50&rotate=0&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=slice&color=2F80ED&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=36&fontColor=ffffff&fontAlign=50&rotate=0&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=58A6FF&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=36&fontColor=ffffff&fontAlign=50&rotate=0&animation=fadeIn" width="100%">
+  </picture>
+</div>
 
 <p align="center">
   <b>Data scientist passionate about creating high-performance systems and applications based in London, UK</b><br>
   <i>Turning complex data into actionable insights through Python, machine learning, and graph theory</i>
 </p>
+
+---
 
 ## 💫 About Me
 
@@ -43,7 +67,7 @@ me = MohamedAlKaisi()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZjZjUwYzY4MGE1N2RjYWNhMDIwOGZkMmNiNDViMjRkZWE5NjFjOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🔭 I'm currently working on **advanced transport network analysis**
 - 🌱 I'm learning more about **symbolic AI and graph theory applications**
@@ -55,96 +79,68 @@ me.say_hi()
 
 ## 🛠️ My Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" width="65" height="65" />
-      </a>
-      <br>PL/SQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      </a>
-      <br>Azure
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="48" height="48" />
-      </a>
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="48" height="48" />
-      </a>
-      <br>PyTorch
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/streamlit.svg" alt="Streamlit" width="48" height="48" />
-      </a>
-      <br>Streamlit
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="48" height="48" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="48" height="48" />
-      </a>
-      <br>Spark
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="pytest" width="48" height="48" />
-      </a>
-      <br>pytest
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+</div>
 
 ### 🧠 Data Science & Machine Learning
-![Graph Theory](https://img.shields.io/badge/Graph_Theory-58A6FF?style=for-the-badge&logo=networkx&logoColor=white)
-![Symbolic AI](https://img.shields.io/badge/Symbolic_AI-58A6FF?style=for-the-badge&logo=python&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-58A6FF?style=for-the-badge&logo=tableau&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-58A6FF?style=for-the-badge&logo=chartdotjs&logoColor=white)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Graph_Theory-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Graph_Theory-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Graph_Theory-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Symbolic_AI-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Symbolic_AI-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Symbolic_AI-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data_Analysis-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data_Analysis-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Data_Analysis-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data_Visualization-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data_Visualization-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Data_Visualization-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+</div>
 
 ### 🚀 Data Engineering & DevOps
-![ETL](https://img.shields.io/badge/ETL_Pipelines-58A6FF?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-58A6FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-58A6FF?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Data Processing](https://img.shields.io/badge/Data_Processing-58A6FF?style=for-the-badge&logo=apachespark&logoColor=white)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ETL_Pipelines-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ETL_Pipelines-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/ETL_Pipelines-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Actions-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub_Actions-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub_Actions-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CI/CD-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CI/CD-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/CI/CD-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data_Processing-58A6FF?style=for-the-badge&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data_Processing-2F80ED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/Data_Processing-58A6FF?style=for-the-badge&logoColor=white">
+  </picture>
+</div>
 
 ---
 
@@ -152,31 +148,25 @@ me.say_hi()
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=github-dark-blue&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=default&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=buefy&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=nord&no-frame=true&row=1&column=7">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=flat&no-frame=true&row=1&column=7">
-    <img src="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=nord&no-frame=true&row=1&column=7" alt="trophy">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=github-dark-blue&hide_border=true&background=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=buefy&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&langs_count=7&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&langs_count=7&theme=default&hide_border=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&langs_count=7&theme=github_dark&hide_border=true" alt="Top Languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&count_private=true&theme=buefy&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </picture>
 </div>
 
@@ -186,47 +176,29 @@ me.say_hi()
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=transport-network-analysis&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=transport-network-analysis&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=transport-network-analysis&theme=github_dark&hide_border=true" alt="Transport Network Analysis">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=transport-network-analysis&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=transport-network-analysis&theme=buefy&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=transport-network-analysis&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Transport Network Analysis" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=conversation-voice-analyser&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=conversation-voice-analyser&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=conversation-voice-analyser&theme=github_dark&hide_border=true" alt="Conversation Voice Analyser">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=text-to-image-generator-gui&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=text-to-image-generator-gui&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=text-to-image-generator-gui&theme=github_dark&hide_border=true" alt="Text to Image Generator GUI">
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=MedGraph&theme=github_dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=MedGraph&theme=default&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=MedGraph&theme=github_dark&hide_border=true" alt="MedGraph">
-  </picture>
-</div>
-
----
-
-## 🏆 My Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=AL-Kaisi&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=AL-Kaisi&limit=5&theme=flat&hide_border=true&combine_all_yearly_contributions=true">
-    <img src="https://github-contributor-stats.vercel.app/api?username=AL-Kaisi&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=conversation-voice-analyser&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=conversation-voice-analyser&theme=buefy&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=conversation-voice-analyser&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Conversation Voice Analyser" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=github-dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=minimal&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=github-dark&hide_border=true" width="100%" alt="Activity Graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=text-to-image-generator-gui&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=text-to-image-generator-gui&theme=buefy&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=text-to-image-generator-gui&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Text to Image Generator GUI" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=MedGraph&theme=github_dark&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=MedGraph&theme=buefy&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=MedGraph&theme=github_dark&hide_border=true&bg_color=0D1117" alt="MedGraph" />
   </picture>
 </div>
 
@@ -236,13 +208,25 @@ me.say_hi()
 
 <div align="center">
   <a href="http://al-kaisi.com/">
-    <img src="https://img.shields.io/badge/Website-al--kaisi.com-58A6FF?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Website-al--kaisi.com-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Website-al--kaisi.com-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+      <img src="https://img.shields.io/badge/Website-al--kaisi.com-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Website">
+    </picture>
   </a>
   <a href="https://twitter.com/alkaisi92">
-    <img src="https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+      <img src="https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </picture>
   </a>
   <a href="https://uk.linkedin.com/in/mohamed-al-kaisi">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Al--Kaisi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-Mohamed_Al--Kaisi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-Mohamed_Al--Kaisi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Al--Kaisi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </picture>
   </a>
 </div>
 
@@ -255,7 +239,7 @@ me.say_hi()
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=100&section=footer">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%">
   </picture>
 </div>
