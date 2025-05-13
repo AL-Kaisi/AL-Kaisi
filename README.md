@@ -8,13 +8,9 @@
 </p>
 
 <!-- Introduction Section -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!;Building+high-performance+systems;Machine+learning+enthusiast;Graph+theory+and+symbolic+AI" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!;Building+high-performance+systems;Machine+learning+enthusiast;Graph+theory+and+symbolic+AI" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!;Building+high-performance+systems;Machine+learning+enthusiast;Graph+theory+and+symbolic+AI" alt="Typing SVG" />
-  </picture>
-</div>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A7BD5&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub!;Building+high-performance+systems;Machine+learning+enthusiast;Graph+theory+and+symbolic+AI" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <a href="http://al-kaisi.com/" target="_blank">
@@ -34,26 +30,16 @@
   <i>Turning complex data into actionable insights through Python, machine learning, and graph theory</i>
 </p>
 
-<!-- Divider with Dark/Light Mode Support -->
+<!-- Rainbow Divider -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider">
-  </picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider">
 </p>
 
 <!-- About Me Section -->
 <h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/user-astronaut-light.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/user-astronaut-dark.svg" />
-    <img src="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/user-astronaut-dark.svg" width="30" height="30" alt="About Me Icon"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/about-me.svg" width="25" height="25" alt="About Me Icon"/>
   About Me
 </h2>
-
-<div class="dark-light-code">
 
 ```python
 class MohamedAlKaisi:
@@ -72,12 +58,10 @@ me = MohamedAlKaisi()
 me.say_hi()
 ```
 
-</div>
-
-<!-- Animated Coding Image with Proper Dark/Light Mode Support -->
+<!-- Animated Coding Image -->
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!-- Bullet Points with Dark/Light Mode Support -->
+<!-- Bullet Points styled as in the screenshot -->
 <ul>
   <li>🔭 I'm currently working on <strong>advanced transport network analysis</strong></li>
   <li>🌱 I'm learning more about <strong>symbolic AI and graph theory applications</strong></li>
@@ -88,126 +72,134 @@ me.say_hi()
 
 <br clear="right">
 
-<!-- Divider with Dark/Light Mode Support -->
+<!-- Rainbow Divider -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider">
-  </picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider">
 </p>
 
 <!-- Tech Stack Section -->
 <h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/tools-light.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/tools-dark.svg" />
-    <img src="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/tools-dark.svg" width="30" height="30" alt="Tech Stack Icon"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/tech-stack.svg" width="25" height="25" alt="Tech Stack Icon"/>
   My Tech Stack
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <span style="background-color:#3776AB; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </span>
+  <span style="background-color:#F7DF1E; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </span>
+  <span style="background-color:#F80000; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+  </span>
+  <span style="background-color:#181717; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </span>
+  <span style="background-color:#2496ED; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </span>
+  <span style="background-color:#0078D4; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  </span>
 </p>
 
-<!-- Data Science & Machine Learning Section -->
+<p align="center">
+  <span style="background-color:#150458; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </span>
+  <span style="background-color:#EE4C2C; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  </span>
+  <span style="background-color:#FF4B4B; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </span>
+  <span style="background-color:#336791; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </span>
+  <span style="background-color:#E25A1C; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/APACHE SPARK-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  </span>
+  <span style="background-color:#0A9EDC; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/PYTEST-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  </span>
+</p>
+
+<!-- Data Science & Machine Learning Section with Styled Badges -->
 <h3 align="center">🧠 Data Science & Machine Learning</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Graph_Theory-3a7bd5?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Graph_Theory-3a7bd5?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Graph_Theory-3a7bd5?style=for-the-badge&logoColor=white" alt="Graph Theory" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Symbolic_AI-00d2ff?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Symbolic_AI-00d2ff?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Symbolic_AI-00d2ff?style=for-the-badge&logoColor=white" alt="Symbolic AI" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data_Analysis-3a7bd5?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data_Analysis-3a7bd5?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Analysis-3a7bd5?style=for-the-badge&logoColor=white" alt="Data Analysis" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data_Visualization-00d2ff?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data_Visualization-00d2ff?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Visualization-00d2ff?style=for-the-badge&logoColor=white" alt="Data Visualization" />
-  </picture>
+  <span style="background-color:#3a7bd5; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/GRAPH_THEORY-3a7bd5?style=for-the-badge&logoColor=white" alt="Graph Theory" />
+  </span>
+  <span style="background-color:#00d2ff; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/SYMBOLIC_AI-00d2ff?style=for-the-badge&logoColor=white" alt="Symbolic AI" />
+  </span>
+  <span style="background-color:#3a7bd5; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/DATA_ANALYSIS-3a7bd5?style=for-the-badge&logoColor=white" alt="Data Analysis" />
+  </span>
+  <span style="background-color:#00d2ff; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/DATA_VISUALIZATION-00d2ff?style=for-the-badge&logoColor=white" alt="Data Visualization" />
+  </span>
 </p>
 
-<!-- Data Engineering & DevOps Section -->
+<!-- Data Engineering & DevOps Section with Styled Badges -->
 <h3 align="center">🚀 Data Engineering & DevOps</h3>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ETL_Pipelines-00d2ff?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ETL_Pipelines-00d2ff?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/ETL_Pipelines-00d2ff?style=for-the-badge&logoColor=white" alt="ETL Pipelines" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub_Actions-3a7bd5?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub_Actions-3a7bd5?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-3a7bd5?style=for-the-badge&logoColor=white" alt="GitHub Actions" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CI/CD-00d2ff?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CI/CD-00d2ff?style=for-the-badge&logoColor=white" />
+  <span style="background-color:#00d2ff; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/ETL_PIPELINES-00d2ff?style=for-the-badge&logoColor=white" alt="ETL Pipelines" />
+  </span>
+  <span style="background-color:#3a7bd5; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/GITHUB_ACTIONS-3a7bd5?style=for-the-badge&logoColor=white" alt="GitHub Actions" />
+  </span>
+  <span style="background-color:#00d2ff; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
     <img src="https://img.shields.io/badge/CI/CD-00d2ff?style=for-the-badge&logoColor=white" alt="CI/CD" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Data_Processing-3a7bd5?style=for-the-badge&logoColor=white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Data_Processing-3a7bd5?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Processing-3a7bd5?style=for-the-badge&logoColor=white" alt="Data Processing" />
-  </picture>
+  </span>
+  <span style="background-color:#3a7bd5; padding:8px 16px; border-radius:5px; margin:5px; display:inline-block;">
+    <img src="https://img.shields.io/badge/DATA_PROCESSING-3a7bd5?style=for-the-badge&logoColor=white" alt="Data Processing" />
+  </span>
 </p>
 
-<!-- Divider with Dark/Light Mode Support -->
+<!-- Rainbow Divider -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider">
-  </picture>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider">
 </p>
 
-<!-- GitHub Stats Section with Dark/Light Mode Support -->
+<!-- GitHub Stats Section with Custom Stats Display -->
 <h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/chart-light.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/chart-dark.svg" />
-    <img src="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/chart-dark.svg" width="30" height="30" alt="Stats Icon"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/AL-Kaisi/AL-Kaisi/main/assets/icons/stats.svg" width="25" height="25" alt="Stats Icon"/>
   GitHub Statistics
 </h2>
 
-<!-- Stats Cards with Dark/Light Mode Support -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&count_private=true&title_color=3a7bd5&text_color=ffffff&bg_color=0D1117&border_color=3a7bd5&icon_color=00d2ff&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&count_private=true&title_color=3a7bd5&text_color=333333&bg_color=ffffff&border_color=3a7bd5&icon_color=00d2ff&hide_border=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&count_private=true&title_color=3a7bd5&text_color=333333&bg_color=ffffff&border_color=3a7bd5&icon_color=00d2ff&hide_border=false" alt="GitHub Stats" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&title_color=3a7bd5&text_color=ffffff&bg_color=0D1117&border_color=3a7bd5&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&title_color=3a7bd5&text_color=333333&bg_color=ffffff&border_color=3a7bd5&hide_border=false" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&title_color=3a7bd5&text_color=333333&bg_color=ffffff&border_color=3a7bd5&hide_border=false" alt="Top Languages" />
-  </picture>
-</p>
+<!-- Custom Stats Display to Match Screenshot -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>Mohamed Alkaisi's GitHub Stats</h3>
+      <ul style="list-style-type: none; text-align: left; padding-left: 10%;">
+        <li>🌟 Total Stars Earned: <b>1</b></li>
+        <li>📊 Total Commits (2025): <b>32</b></li>
+        <li>🔍 Total PRs: <b>0</b></li>
+        <li>🐛 Total Issues: <b>3</b></li>
+        <li>🏆 Contributed to (last year): <b>0</b></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <h3>Most Used Languages</h3>
+      <div style="display: flex; justify-content: center; align-items: center; height: 150px; width: 150px; margin: 0 auto; border-radius: 50%; background-color: #f5f5f5; border: 2px solid #3a7bd5;">
+        <div style="font-size: 36px; font-weight: bold; color: #3a7bd5;">C</div>
+      </div>
+      <ul style="list-style-type: none; text-align: left; padding-left: 5%;">
+        <li>🟠 HTML: <b>77.47%</b></li>
+        <li>🔵 Python: <b>16.11%</b></li>
+        <li>🟡 JavaScript: <b>5.52%</b></li>
+        <li>🟣 Jupyter Notebook: <b>3.90%</b></li>
+        <li>🟢 Visual Basic: <b>0.54%</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+<!-- GitHub Streak - Same as in the screenshot -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=dark&background=0D1117&stroke=3a7bd5&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3a7bd5&sideLabels=3a7bd5&dates=888888&border=3a7bd5" />
@@ -216,7 +208,7 @@ me.say_hi()
   </picture>
 </p>
 
-<!-- GitHub Activity Graph with Dark/Light Mode Support -->
+<!-- GitHub Activity Graph - Matching actual style -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&bg_color=0D1117&color=3a7bd5&line=00d2ff&point=3a7bd5&area=true&area_color=00d2ff33&hide_border=false" />
