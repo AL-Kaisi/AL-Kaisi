@@ -15,6 +15,7 @@
 <a href="http://al-kaisi.com/"><img src="https://img.shields.io/badge/Website-al--kaisi.com-3a7bd5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://twitter.com/alkaisi92"><img src="https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://uk.linkedin.com/in/mohamed-al-kaisi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@malkaisi92"><img src="https://img.shields.io/badge/Medium-@malkaisi92-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=3a7bd5" alt="Profile views"/>
 </p>
 
@@ -44,6 +45,7 @@ class MohamedAlKaisi:
         self.languages = ["English", "Arabic"]
         self.website = "http://al-kaisi.com"
         self.twitter = "@alkaisi92"
+        self.medium = "@malkaisi92"
         self.interests = ["Graph Theory", "Symbolic AI", "Transport Networks", "Data Engineering"]
         
     def current_focus(self):
@@ -51,7 +53,8 @@ class MohamedAlKaisi:
             "Advanced transport network analysis using graph algorithms",
             "Symbolic AI applications in real-world problems",
             "Building scalable data pipelines",
-            "Open-source contributions"
+            "Open-source contributions",
+            "Writing technical articles on Medium"
         ]
     
     def say_hi(self):
@@ -69,6 +72,7 @@ me.say_hi()
 - 🔭 Working on **advanced transport network analysis** using graph algorithms
 - 🌱 Deep diving into **symbolic AI and graph theory applications**
 - 👯 Looking to collaborate on **data science and ML projects**
+- ✍️ Writing technical articles on **[Medium](https://medium.com/@malkaisi92)**
 - 🤝 Open to **consulting opportunities** in data engineering
 - 💬 Ask me about **Python, data engineering, and network analysis**
 - ⚡ Fun fact: **I enjoy optimizing complex systems in both code and real life**
@@ -339,6 +343,7 @@ me.say_hi()
 [![Website](https://img.shields.io/badge/Website-al--kaisi.com-3a7bd5?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://al-kaisi.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alkaisi92)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Al--Kaisi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/mohamed-al-kaisi)
+[![Medium](https://img.shields.io/badge/Medium-@malkaisi92-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@malkaisi92)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
@@ -350,10 +355,15 @@ me.say_hi()
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts on Medium
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- MEDIUM-STORY-LIST:START -->
+- 📄 Check out my articles on [Medium](https://medium.com/@malkaisi92)
+- 🔍 Topics: Data Science, Machine Learning, Graph Theory, Python
+- 💡 Writing about practical applications and technical insights
+<!-- MEDIUM-STORY-LIST:END -->
+
+> 💡 **Pro tip**: You can automatically fetch your latest Medium articles using GitHub Actions!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
