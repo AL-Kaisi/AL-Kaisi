@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Mohamed Al-Kaisi
+# Mohamed Al-Kaisi
 
 ### Data Engineer | AI & ML Specialist | AWS & Azure Cloud Expert
 
