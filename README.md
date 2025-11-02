@@ -1,32 +1,27 @@
 <div align="center">
 
-<!-- Clean Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Mohamed%20Al-Kaisi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20|%20AI%20%26%20Cloud%20Specialist&descSize=20&descAlignY=55" width="100%"/>
+# 👋 Mohamed Al-Kaisi
 
-<!-- Professional Subtitle -->
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+%26+ML+Specialist;AWS+%26+Azure+Cloud+Expert;Building+Scalable+Data+Pipelines;MLOps+%26+Infrastructure+Automation" alt="Typing SVG" />
-</h3>
+### Data Engineer | AI & ML Specialist | AWS & Azure Cloud Expert
 
-<!-- Badges -->
 <p>
   <a href="http://al-kaisi.com/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-al--kaisi.com-0A66C2?style=for-the-badge"/>
   </a>
   <a href="https://uk.linkedin.com/in/mohamed-al-kaisi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://medium.com/@malkaisi92">
-    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium"/>
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://twitter.com/alkaisi92">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Based_in-London,_UK-FF6B6B?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/📍_Based_in-London,_UK-e74c3c?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=0088cc" alt="Profile views"/>
 </p>
 
 </div>
@@ -226,49 +221,48 @@ print(engineer.expertise())
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da">
+  <img src="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=default&hide_border=false&background=ffffff&stroke=0969da&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=0969da&dates=57606a">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=default&hide_border=false" alt="GitHub Streak" />
+</picture>
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=default&hide_border=false&langs_count=8&bg_color=ffffff&title_color=0969da&text_color=24292f">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages" />
+</picture>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=algolia&no-frame=true&row=1&column=7&margin-w=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=flat&no-frame=true&row=1&column=7&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=flat&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
+</picture>
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=github-compact&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=github-light&hide_border=false&area=true&bg_color=ffffff&color=0969da&line=0969da&point=0969da">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=github-light&hide_border=false&area=true" width="100%" alt="Contribution Graph" />
+</picture>
 
 </div>
-
----
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td>
-
-### 🏢 Current Role
-**AI & Data Engineer** @ Accenture UK & Ireland
-*Building enterprise-scale data & AI solutions for government and commercial clients*
-
-**Key Achievements:**
-- 🎯 Architected data pipelines processing **billions of records** using AWS Glue & Spark
-- 🤖 Implemented **MLOps frameworks** for enterprise AI/ML model deployment
-- ☁️ Designed **serverless architectures** using AWS Lambda, EventBridge & Terraform
-- 📊 Built real-time analytics dashboards with **Power BI** for strategic insights
-- 🔒 Delivered compliant solutions for **UK central government** meeting GDS standards
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -323,32 +317,13 @@ print(engineer.expertise())
 
 ## 🎯 2025 Goals
 
-<div align="center">
-
-```mermaid
-mindmap
-  root((2025 Goals))
-    Open Source
-      Contribute to major projects
-      Build data engineering tools
-    Learning
-      Advanced distributed systems
-      Real-time data streaming
-    Community
-      Mentor aspiring engineers
-      Speak at conferences
-    Professional
-      Lead enterprise AI projects
-      Expand MLOps expertise
-```
-
-</div>
-
 - 🌟 Contribute to **open-source data engineering projects**
 - 📚 Master **real-time streaming** with Kafka & Flink
-- 🎓 Share knowledge through **technical articles** and **talks**
+- 🎓 Share knowledge through **technical articles** and **conference talks**
 - 🚀 Build production-grade **LLM applications** at scale
 - 🤝 Mentor **100+ aspiring data engineers**
+- 🏗️ Lead **enterprise AI projects** leveraging MLOps best practices
+- 📖 Publish research on **distributed systems** and **data architecture**
 
 ---
 
@@ -389,11 +364,16 @@ mindmap
 <div align="center">
 
 ### ⚡ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Random Dev Quote" />
+</picture>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+---
 
 **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 
