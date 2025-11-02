@@ -1,401 +1,402 @@
 <div align="center">
-<!-- Title Section -->
-# Mohamed Al-Kaisi
 
-<!-- Dynamic SVG for typing animation - works in both light/dark -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3A7BD5&center=true&vCenter=true&random=false&width=600&lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Transport+Network+Expert;Graph+Theory+Enthusiast)](https://git.io/typing-svg)
+<!-- Clean Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Mohamed%20Al-Kaisi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20|%20AI%20%26%20Cloud%20Specialist&descSize=20&descAlignY=55" width="100%"/>
 
-<!-- Waving Header - works in both light/dark -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%"/>
-</p>
+<!-- Professional Subtitle -->
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+%26+ML+Specialist;AWS+%26+Azure+Cloud+Expert;Building+Scalable+Data+Pipelines;MLOps+%26+Infrastructure+Automation" alt="Typing SVG" />
+</h3>
 
-<!-- Badges with improved styling for better visibility in both modes -->
+<!-- Badges -->
 <p>
-<a href="http://al-kaisi.com/"><img src="https://img.shields.io/badge/Website-al--kaisi.com-3a7bd5?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://twitter.com/alkaisi92"><img src="https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://uk.linkedin.com/in/mohamed-al-kaisi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@malkaisi92"><img src="https://img.shields.io/badge/Medium-@malkaisi92-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=3a7bd5" alt="Profile views"/>
+  <a href="http://al-kaisi.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-al--kaisi.com-0A66C2?style=for-the-badge"/>
+  </a>
+  <a href="https://uk.linkedin.com/in/mohamed-al-kaisi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://medium.com/@malkaisi92">
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium"/>
+  </a>
+  <a href="https://twitter.com/alkaisi92">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
 </p>
 
-<!-- Location Badge -->
 <p>
-<img src="https://img.shields.io/badge/📍_London,_UK-E34F26?style=for-the-badge&logoColor=white" alt="Location"/>
-</p>
-
-<!-- Horizontal rule that works in both modes -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<p align="center">
-<b>Data scientist passionate about creating high-performance systems and applications based in London, UK</b><br>
-<i>Turning complex data into actionable insights through Python, machine learning, and graph theory</i>
+  <img src="https://img.shields.io/badge/📍_Based_in-London,_UK-FF6B6B?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=AL-Kaisi&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
 </div>
 
-## 💫 About Me
+---
+
+## 👨‍💻 About Me
 
 ```python
-class MohamedAlKaisi:
+class DataEngineer:
     def __init__(self):
         self.name = "Mohamed Al-Kaisi"
-        self.role = "Data Scientist & Engineer"
+        self.role = "Data Engineer | AI & Cloud Specialist"
         self.location = "London, UK 🇬🇧"
-        self.languages = ["English", "Arabic"]
-        self.website = "http://al-kaisi.com"
-        self.twitter = "@alkaisi92"
-        self.medium = "@malkaisi92"
-        self.interests = ["Graph Theory", "Symbolic AI", "Transport Networks", "Data Engineering"]
-        
-    def current_focus(self):
-        return [
-            "Advanced transport network analysis using graph algorithms",
-            "Symbolic AI applications in real-world problems",
-            "Building scalable data pipelines",
-            "Open-source contributions",
-            "Writing technical articles on Medium"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! Let's build something amazing together! 🚀")
+        self.company = "Accenture"
 
-me = MohamedAlKaisi()
-me.say_hi()
+    def expertise(self):
+        return {
+            "data_engineering": [
+                "ETL/ELT Pipeline Development",
+                "Data Warehouse Design",
+                "Real-time Data Processing",
+                "Data Quality & Governance"
+            ],
+            "ai_ml": [
+                "MLOps & Model Deployment",
+                "Generative AI (Bedrock, Azure OpenAI)",
+                "Machine Learning Pipelines",
+                "LLM Integration"
+            ],
+            "cloud_platforms": {
+                "AWS": ["Lambda", "Glue", "S3", "Bedrock", "SageMaker", "EventBridge"],
+                "Azure": ["OpenAI", "Data Factory", "Databricks", "Synapse"]
+            },
+            "infrastructure": ["Terraform", "Docker", "CI/CD", "Serverless Architecture"]
+        }
+
+    def currently_working_on(self):
+        return [
+            "🏗️ Building enterprise-scale AI applications with Amazon Bedrock",
+            "⚡ Optimizing data pipelines processing billions of records",
+            "🤖 Implementing MLOps frameworks for production ML systems",
+            "📊 Designing scalable data architectures for government & enterprise"
+        ]
+
+# Let's build something amazing together!
+engineer = DataEngineer()
+print(engineer.expertise())
 ```
 
-<!-- Image to the right, with proper sizing to look good on both modes -->
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Data Engineering" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 🎯 Current Focus
+### 🎯 What I'm Focused On
 
-- 🔭 Working on **advanced transport network analysis** using graph algorithms
-- 🌱 Deep diving into **symbolic AI and graph theory applications**
-- 👯 Looking to collaborate on **data science and ML projects**
-- ✍️ Writing technical articles on **[Medium](https://medium.com/@malkaisi92)**
-- 🤝 Open to **consulting opportunities** in data engineering
-- 💬 Ask me about **Python, data engineering, and network analysis**
-- ⚡ Fun fact: **I enjoy optimizing complex systems in both code and real life**
+- 🔭 Building **production-grade AI/ML solutions** at Accenture
+- 🚀 Specializing in **AWS Bedrock** and **Azure OpenAI** implementations
+- ⚙️ Architecting **scalable data pipelines** handling billions of records
+- 🛠️ Automating infrastructure with **Terraform** and **IaC**
+- ✍️ Writing technical articles on [Medium](https://medium.com/@malkaisi92)
+- 🤝 Open to **data engineering & MLOps consulting**
 
-<br clear="right">
+<br clear="right"/>
 
-<!-- Rainbow divider more visible in both themes -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 💻 Core Technologies
+### 💾 Data Engineering & Processing
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
 
-<table>
-<tr>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-</a>
-<br><b>Python</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-</a>
-<br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" width="65" height="65" />
-</a>
-<br><b>PL/SQL</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-</a>
-<br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-</a>
-<br><b>Docker</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="65" height="65" />
-</a>
-<br><b>Azure</b>
-</td>
-</tr>
-</table>
+### ☁️ Cloud Platforms & Services
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge"/>
+</p>
 
-### 📊 Data Science & Analytics
+### 🤖 AI/ML & MLOps
+<p>
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-<table>
-<tr>
-<td align="center" width="96">
-<a href="#">
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="48" height="48" />
-</a>
-<br><b>Pandas</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://numpy.org/images/logo.svg" alt="NumPy" width="48" height="48" />
-</a>
-<br><b>NumPy</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://matplotlib.org/_static/logo_light.svg" alt="Matplotlib" width="48" height="48" />
-</a>
-<br><b>Matplotlib</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" />
-</a>
-<br><b>Seaborn</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" />
-</a>
-<br><b>Scikit-learn</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48" />
-</a>
-<br><b>PyTorch</b>
-</td>
-</tr>
-</table>
+### 🗄️ Databases & Warehouses
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge"/>
+</p>
 
-### 🚀 Tools & Frameworks
+### 🔧 DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-239120?style=for-the-badge"/>
+</p>
 
-<table>
-<tr>
-<td align="center" width="96">
-<a href="#">
-<img src="https://cdn.worldvectorlogo.com/logos/streamlit.svg" alt="Streamlit" width="48" height="48" />
-</a>
-<br><b>Streamlit</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="48" height="48" />
-</a>
-<br><b>PostgreSQL</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="48" height="48" />
-</a>
-<br><b>Spark</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="pytest" width="48" height="48" />
-</a>
-<br><b>pytest</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="48" height="48" />
-</a>
-<br><b>Git</b>
-</td>
-<td align="center" width="96">
-<a href="#">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
-</a>
-<br><b>VS Code</b>
-</td>
-</tr>
-</table>
+### 📊 Analytics & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-### 🧠 Specializations
+### 🎓 Certifications
+<p>
+  <img src="https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Power_BI-Data_Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-![Graph Theory](https://img.shields.io/badge/Graph_Theory-3a7bd5?style=for-the-badge&logoColor=white)
-![Symbolic AI](https://img.shields.io/badge/Symbolic_AI-00d2ff?style=for-the-badge&logoColor=white)
-![Network Analysis](https://img.shields.io/badge/Network_Analysis-3a7bd5?style=for-the-badge&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-00d2ff?style=for-the-badge&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3a7bd5?style=for-the-badge&logoColor=white)
-![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-00d2ff?style=for-the-badge&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-3a7bd5?style=for-the-badge&logoColor=white)
-![Data Processing](https://img.shields.io/badge/Data_Processing-00d2ff?style=for-the-badge&logoColor=white)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🔥 Featured Projects
-
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ### 🚊 Transport Network Analysis
-*Advanced graph algorithms for optimizing transport systems*
+*Advanced graph algorithms for optimizing transport systems using Python & NetworkX*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=transport-network-analysis&theme=react&hide_border=false&title_color=3a7bd5&text_color=333333&icon_color=00d2ff&border_color=3a7bd5)](https://github.com/AL-Kaisi/transport-network-analysis)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AL-Kaisi/transport-network-analysis)
+
+**Tech:** Python • NetworkX • Pandas • Graph Theory
+
+</td>
+<td width="50%">
 
 ### 🎙️ Conversation Voice Analyser
-*Real-time voice analysis using machine learning*
+*Real-time voice analysis using ML pipelines and audio processing*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=conversation-voice-analyser&theme=react&hide_border=false&title_color=3a7bd5&text_color=333333&icon_color=00d2ff&border_color=3a7bd5)](https://github.com/AL-Kaisi/conversation-voice-analyser)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AL-Kaisi/conversation-voice-analyser)
+
+**Tech:** Python • ML • Audio Processing • Flask
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🎨 Text to Image Generator GUI
-*User-friendly interface for AI-powered image generation*
+*AI-powered image generation with user-friendly interface*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=text-to-image-generator-gui&theme=react&hide_border=false&title_color=3a7bd5&text_color=333333&icon_color=00d2ff&border_color=3a7bd5)](https://github.com/AL-Kaisi/text-to-image-generator-gui)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AL-Kaisi/text-to-image-generator-gui)
+
+**Tech:** Python • Stable Diffusion • Tkinter • AI
+
+</td>
+<td width="50%">
 
 ### 🏥 MedGraph
-*Medical data visualization using graph theory*
+*Medical data visualization using graph theory and network analysis*
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AL-Kaisi&repo=MedGraph&theme=react&hide_border=false&title_color=3a7bd5&text_color=333333&icon_color=00d2ff&border_color=3a7bd5)](https://github.com/AL-Kaisi/MedGraph)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/AL-Kaisi/MedGraph)
+
+**Tech:** Python • Graph Theory • Data Viz • Neo4j
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 📈 Contribution Stats
+<table>
+<tr>
+<td width="50%">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=react&hide_border=false&stroke=3a7bd5&ring=00d2ff&fire=00d2ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3a7bd5&sideLabels=3a7bd5&dates=888888&border=3a7bd5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=default&hide_border=false&stroke=3a7bd5&ring=00d2ff&fire=00d2ff&currStreakNum=333333&sideNums=333333&currStreakLabel=3a7bd5&sideLabels=3a7bd5&dates=888888&border=3a7bd5">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=default&hide_border=false&stroke=3a7bd5&ring=00d2ff&fire=00d2ff&currStreakNum=333333&sideNums=333333&currStreakLabel=3a7bd5&sideLabels=3a7bd5&dates=888888&border=3a7bd5" alt="GitHub Streak"/>
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AL-Kaisi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ### 🏆 GitHub Trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15">
-  <img src="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="trophy">
-</picture>
-
-### 📊 Profile Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=react&hide_border=false&include_all_commits=true&count_private=true&title_color=3a7bd5&text_color=ffffff&icon_color=00d2ff&border_color=3a7bd5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=3a7bd5&text_color=333333&icon_color=00d2ff&border_color=3a7bd5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AL-Kaisi&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&title_color=3a7bd5&text_color=333333&icon_color=00d2ff&border_color=3a7bd5"/>
-</picture>
-
-### 💻 Most Used Languages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&langs_count=8&theme=react&hide_border=false&title_color=3a7bd5&text_color=ffffff&border_color=3a7bd5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&langs_count=8&theme=default&hide_border=false&title_color=3a7bd5&text_color=333333&border_color=3a7bd5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL-Kaisi&layout=compact&langs_count=8&theme=default&hide_border=false&title_color=3a7bd5&text_color=333333&border_color=3a7bd5"/>
-</picture>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AL-Kaisi&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies" />
 
 ### 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&bg_color=0D1117&color=3a7bd5&line=00d2ff&point=3a7bd5&area=true&area_color=00d2ff33&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&bg_color=ffffff&color=3a7bd5&line=00d2ff&point=3a7bd5&area=true&area_color=d3f5ff&hide_border=false">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&bg_color=ffffff&color=3a7bd5&line=00d2ff&point=3a7bd5&area=true&area_color=d3f5ff&hide_border=false" width="100%">
-</picture>
-
-### 🎯 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AL-Kaisi&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 💡 Skills Matrix
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td>
+
+### 🏢 Current Role
+**AI & Data Engineer** @ Accenture UK & Ireland
+*Building enterprise-scale data & AI solutions for government and commercial clients*
+
+**Key Achievements:**
+- 🎯 Architected data pipelines processing **billions of records** using AWS Glue & Spark
+- 🤖 Implemented **MLOps frameworks** for enterprise AI/ML model deployment
+- ☁️ Designed **serverless architectures** using AWS Lambda, EventBridge & Terraform
+- 📊 Built real-time analytics dashboards with **Power BI** for strategic insights
+- 🔒 Delivered compliant solutions for **UK central government** meeting GDS standards
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Community & Impact
 
 <div align="center">
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/-Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+### 🎖️ Recognitions & Awards
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🏆-Changing_Lives_Award-FFD700?style=for-the-badge"/>
+<br><sub><b>University of Greenwich (2024)</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎯-Outstanding_Leadership-FF6B6B?style=for-the-badge"/>
+<br><sub><b>Nominated</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⭐-Volunteer_of_the_Year-4ECDC4?style=for-the-badge"/>
+<br><sub><b>Finalist - Croydon Borough</b></sub>
+</td>
+</tr>
+</table>
+
+### 🤝 Volunteer Work
+
+**Board of Trustees** @ Compass Collective
+*Supporting 250+ young refugees annually through tech mentorship and professional development*
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 🌐 Connect With Me
+## 📝 Latest from Medium
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-al--kaisi.com-3a7bd5?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://al-kaisi.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-@alkaisi92-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alkaisi92)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Al--Kaisi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/mohamed-al-kaisi)
-[![Medium](https://img.shields.io/badge/Medium-@malkaisi92-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@malkaisi92)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Medium](https://img.shields.io/badge/Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@malkaisi92)
+
+**Topics I Write About:**
+- 📊 Data Engineering Best Practices
+- 🤖 MLOps & Production ML Systems
+- ☁️ Cloud Architecture (AWS & Azure)
+- 🔧 Infrastructure as Code
+- 🚀 AI/ML Implementation Strategies
 
 </div>
 
-<div align="center">
-<h3>💬 Let's Connect!</h3>
-<p>Feel free to reach out for collaborations, discussions, or just to say hi! I'm always open to interesting projects and opportunities.</p>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📝 Latest Blog Posts on Medium
-
-<!-- MEDIUM-STORY-LIST:START -->
-- 📄 Check out my articles on [Medium](https://medium.com/@malkaisi92)
-- 🔍 Topics: Data Science, Machine Learning, Graph Theory, Python
-- 💡 Writing about practical applications and technical insights
-<!-- MEDIUM-STORY-LIST:END -->
-
-> 💡 **Pro tip**: You can automatically fetch your latest Medium articles using GitHub Actions!
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
 ## 🎯 2025 Goals
 
-- 🌟 Contribute to more open-source projects
-- 📚 Publish research on graph theory applications in transport networks
-- 🎓 Share knowledge through technical blog posts
-- 🤝 Build a community around data science and network analysis
-- 🚀 Launch a new project combining symbolic AI with real-world applications
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <div align="center">
 
-### ⚡ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/AL-Kaisi/AL-Kaisi/blob/output/github-contribution-grid-snake.svg)
+```mermaid
+mindmap
+  root((2025 Goals))
+    Open Source
+      Contribute to major projects
+      Build data engineering tools
+    Learning
+      Advanced distributed systems
+      Real-time data streaming
+    Community
+      Mentor aspiring engineers
+      Speak at conferences
+    Professional
+      Lead enterprise AI projects
+      Expand MLOps expertise
+```
 
 </div>
 
+- 🌟 Contribute to **open-source data engineering projects**
+- 📚 Master **real-time streaming** with Kafka & Flink
+- 🎓 Share knowledge through **technical articles** and **talks**
+- 🚀 Build production-grade **LLM applications** at scale
+- 🤝 Mentor **100+ aspiring data engineers**
+
+---
+
+## 📬 Let's Connect
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+<p>
+  <a href="http://al-kaisi.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge"/>
+  </a>
+  <a href="https://uk.linkedin.com/in/mohamed-al-kaisi">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:malkaisi92@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://medium.com/@malkaisi92">
+    <img src="https://img.shields.io/badge/✍️_Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium"/>
+  </a>
+  <a href="https://twitter.com/alkaisi92">
+    <img src="https://img.shields.io/badge/🐦_Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+</p>
+
+### 💬 Open to Opportunities
+
+🔹 **Data Engineering Consulting** | 🔹 **MLOps Implementation** | 🔹 **Cloud Architecture Design**
+🔹 **Technical Speaking** | 🔹 **Mentorship** | 🔹 **Collaboration on Open Source**
+
 </div>
 
 ---
 
 <div align="center">
-<p>⭐️ From <a href="https://github.com/AL-Kaisi">Mohamed Al-Kaisi</a> with ❤️</p>
-<p>Thank you for visiting my profile! Don't forget to star ⭐ some repositories if you find them interesting!</p>
+
+### ⚡ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
+
+**Thanks for visiting! ⭐ Star my repos if you find them interesting!**
+
+<sub>Made with ❤️ and lots of ☕</sub>
+
 </div>
